@@ -11,3 +11,5 @@ L
 tests/aid-management.test.ts,a/3/a36665eaffe58af683cf173874a979a7ee36e7d0
 R
 "contracts/disaster-relief-nft.clar,a/c/ac1a245c5f643094c6407dbfa0d65944f346c83e
+Q
+!tests/disaster-relief-nft.test.ts,5/8/58df64a53306744e34f49df7c4702b1492cc20a1
