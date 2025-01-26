@@ -7,3 +7,5 @@ P
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 M
 contracts/aid-management.clar,0/0/00a14410c916193310f50df28da93eba974f036f
+L
+tests/aid-management.test.ts,a/3/a36665eaffe58af683cf173874a979a7ee36e7d0
